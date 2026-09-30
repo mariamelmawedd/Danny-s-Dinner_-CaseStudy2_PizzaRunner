@@ -1,8 +1,6 @@
 # Danny-s-Dinner_-CaseStudy2_PizzaRunner
 
-# Pizza-Runner_-CaseStudy-2
-
-# 8 Week SQL Challenge — Case Study #2 (Pizza Runner)
+## 8 Week SQL Challenge — Case Study #2 (Pizza Runner)
 
 🔗 Original challenge: [8weeksqlchallenge.com/case-study-2](https://8weeksqlchallenge.com/case-study-2/)
 
